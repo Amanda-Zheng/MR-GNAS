@@ -10,13 +10,18 @@ To tackle the limitations of single-relational setting and coarse-grained search
 
 ## Instructions
 Here provide some examples of how to run the code (with link prediction task, same with node classification task), and the best hyper-parameters can be found in our work.
-### step 1: search in the proposed search space
+### Requirements
+```
+torch==1.9.0+cu111
+dgl-cuda10.0==0.5.3
+```
+### Step 1: Search in the proposed search space
 
 ```python 
 python mr_lp_search.py
 ```
 
-### step 2: train with searched architectures
+### Step 2: Train with searched architectures
 ```python 
 python mr_lp_train.py --genotype "[Genotype(alpha_cell=[('pre_sub', 1, 0), ('f_sparse_comp', 2, 1), ('f_sparse_comp', 3, 2), ('a_max', 4, 2), ('a_max', 5, 3), ('f_sparse_last', 6, 5), ('f_sparse_last', 7, 5)], concat_node=[4, 5, 6, 7], score_func='sf_DisMult')]"
 ```
