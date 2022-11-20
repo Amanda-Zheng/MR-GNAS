@@ -24,11 +24,12 @@ python mr_lp_train.py --genotype "[Genotype(alpha_cell=[('pre_sub', 1, 0), ('f_s
 Please feel free to connect xin.zheng@monash.edu for any questions and issues of this work.
 
 You are welcome to kindly cite our paper:
-`
+
+```
 @inproceedings{mrgnas_zheng2022mrgnas,
   title={Multi-Relational Graph Neural Architecture Search with Fine-grained Message Passing},
   author={Zheng, Xin and Zhang, Miao and Chen, Chunyang and Li, Chaojie and Zhou, Chuan, and Pan, Shirui},
   booktitle={ICDM},
   year={2022}
 }
-`
+```
