@@ -29,7 +29,7 @@ You are welcome to kindly cite our paper:
 @inproceedings{mrgnas_zheng2022mrgnas,
   title={Multi-Relational Graph Neural Architecture Search with Fine-grained Message Passing},
   author={Zheng, Xin and Zhang, Miao and Chen, Chunyang and Li, Chaojie and Zhou, Chuan, and Pan, Shirui},
-  booktitle={ICDM},
+  booktitle={IEEE International Conference on Data Mining (ICDM)},
   year={2022}
 }
 ```
