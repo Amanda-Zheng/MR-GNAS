@@ -1,3 +1,6 @@
+# This is for node classification for datasets AIFB, MUTAG, BGS, and AM.
+# author: Amanda
+# date: 2022/11
 import datetime
 import sys
 import os

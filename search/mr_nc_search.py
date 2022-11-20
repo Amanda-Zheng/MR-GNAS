@@ -1,6 +1,6 @@
 # This is for node classification for datasets AIFB, MUTAG, BGS, and AM.
 # author: Amanda
-# date: 2021/09/27
+# date: 2022/11
 
 
 import argparse

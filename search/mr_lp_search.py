@@ -1,3 +1,6 @@
+# This is for link prediction for datasets FB15K237, WN18RR.
+# author: Amanda
+# date: 2021/11
 import time
 import numpy as np
 import random

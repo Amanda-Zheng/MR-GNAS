@@ -1,3 +1,6 @@
+# This is for link prediction for datasets AIFB, MUTAG, BGS, and AM.
+# author: Amanda
+# date: 2022/11
 import torch
 import numpy as np
 import torch.nn as nn
