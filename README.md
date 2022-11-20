@@ -5,7 +5,7 @@ Official Pytorch implementation of ICDM'22 "Multi-Relational Graph Neural Archit
 To tackle the limitations of single-relational setting and coarse-grained search space design in existing graph NAS, in this paper, we propose a novel framework of multirelational graph neural architecture search, dubbed MR-GNAS, to automatically develop innovative and excellent multi-relational GNN architectures.
 
 ## Framework
-
+![image](https://github.com/Amanda-Zheng/MR-GNAS/blob/9bdb73b26104cbea78adf410ca0e234ca88e1fb7/mr-gnas.png)
 
 
 ## Instructions
